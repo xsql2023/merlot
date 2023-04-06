@@ -1,4 +1,4 @@
-# The Merlot theme
+# The Merlot theme 梅洛主题
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/merlot/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/merlot/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-merlot.svg)](https://badge.fury.io/rb/jekyll-theme-merlot)
 
